@@ -1,0 +1,6 @@
+CLEARED_WORKBENCH=true
+DEBUGGER_EXECUTABLE=Ozone.exe
+DEBUGGER_PATH=C\:\\Program Files\\SEGGER\\Ozone V2.30
+SDK_FAMILY=DA1468x
+SDK_TYPE=1.0.8
+eclipse.preferences.version=1

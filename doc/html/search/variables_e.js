@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['o_5fsz',['o_sz',['../structcrypto__ec__params__t.html#a7e2ef4f5aaf95971476104390a611c9c',1,'crypto_ec_params_t']]],
+  ['offset',['offset',['../structble__evt__gattc__read__completed__t.html#a1e8eb4fb5d0b008b59d917df854642a1',1,'ble_evt_gattc_read_completed_t::offset()'],['../structble__evt__gatts__read__req__t.html#a40a52941e44e26f95ed72157f0a5c29a',1,'ble_evt_gatts_read_req_t::offset()'],['../structble__evt__gatts__write__req__t.html#a2bd805d4eac67161370978d8760fb737',1,'ble_evt_gatts_write_req_t::offset()']]],
+  ['op_5fcode',['op_code',['../structirb__ble__stack__msg.html#a0fc52954c5af703b4777d088a8fcc4d8',1,'irb_ble_stack_msg::op_code()'],['../structirb__ble__stack__hdr.html#aa55917fd475739a6f42193a3259bee74',1,'irb_ble_stack_hdr::op_code()']]],
+  ['open_5fcount',['open_count',['../structuart__bus__dynamic__data.html#a3697ed51bc1b857c49b0641d8e15a724',1,'uart_bus_dynamic_data']]],
+  ['open_5fdevices_5fcnt',['open_devices_cnt',['../structspi__bus__dynamic__data.html#ac129cad4c079a5d1c0e84de0c40e5f62',1,'spi_bus_dynamic_data']]],
+  ['otpc_5fahbadr_5freg',['OTPC_AHBADR_REG',['../struct_o_t_p_c___type.html#ac913c7f4797c6f1f41bc0068afbc591c',1,'OTPC_Type']]],
+  ['otpc_5fceladr_5freg',['OTPC_CELADR_REG',['../struct_o_t_p_c___type.html#a69bc778d6a612c4f9dd847e72c17e58b',1,'OTPC_Type']]],
+  ['otpc_5fffprt_5freg',['OTPC_FFPRT_REG',['../struct_o_t_p_c___type.html#abbae73b47f743663ff4755eac838ce1b',1,'OTPC_Type']]],
+  ['otpc_5fffrd_5freg',['OTPC_FFRD_REG',['../struct_o_t_p_c___type.html#a0f2d60da841b87416a21b4a7d228f026',1,'OTPC_Type']]],
+  ['otpc_5fmode_5freg',['OTPC_MODE_REG',['../struct_o_t_p_c___type.html#a1018bf487c884f4149d06497255bf524',1,'OTPC_Type']]],
+  ['otpc_5fnwords_5freg',['OTPC_NWORDS_REG',['../struct_o_t_p_c___type.html#a6296fec1ce0e1d31763afac30f6f1795',1,'OTPC_Type']]],
+  ['otpc_5fpctrl_5freg',['OTPC_PCTRL_REG',['../struct_o_t_p_c___type.html#a660b1846863e2c6f29f2404fd74fec33',1,'OTPC_Type']]],
+  ['otpc_5fpwordh_5freg',['OTPC_PWORDH_REG',['../struct_o_t_p_c___type.html#aa7c3f6f354a8aada9123259b24b27930',1,'OTPC_Type']]],
+  ['otpc_5fpwordl_5freg',['OTPC_PWORDL_REG',['../struct_o_t_p_c___type.html#ac866a0d8353c3eb0c904f0c5897b9399',1,'OTPC_Type']]],
+  ['otpc_5fstat_5freg',['OTPC_STAT_REG',['../struct_o_t_p_c___type.html#a877f729c31799199fea8ce132882b47d',1,'OTPC_Type']]],
+  ['otpc_5ftim1_5freg',['OTPC_TIM1_REG',['../struct_o_t_p_c___type.html#ad4e2e24eb8e1fe9b3364c26732c03334',1,'OTPC_Type']]],
+  ['otpc_5ftim2_5freg',['OTPC_TIM2_REG',['../struct_o_t_p_c___type.html#ae53ee387850ea137384337cc7925b28a',1,'OTPC_Type']]],
+  ['output',['output',['../structirgen__config.html#a6963df96569074f05a02b46a7bbfc21f',1,'irgen_config']]],
+  ['output_5fbuffer',['output_buffer',['../structi2c__dev__dynamic__data__slave.html#a5017c8a12bfc7d550e9b61f7d78c18d9',1,'i2c_dev_dynamic_data_slave']]],
+  ['oversampling',['oversampling',['../structgpadc__config.html#abad69a784728443420835fdae81b796b',1,'gpadc_config']]],
+  ['own_5faddr',['own_addr',['../structble__evt__gap__connected__t.html#acaeb97b94ce0146dfe2dd40ab8e86688',1,'ble_evt_gap_connected_t::own_addr()'],['../structble__dev__params__tag.html#a05ab2392fe5b9f5cdfca65f757d576ae',1,'ble_dev_params_tag::own_addr()']]],
+  ['owner',['owner',['../structgpadc__dynamic__data.html#a7b3e8a10b78da186c8951bb4570a8342',1,'gpadc_dynamic_data::owner()'],['../structi2c__dev__dynamic__data.html#acb8d60ec8fcfc324955eacec0f40eed3',1,'i2c_dev_dynamic_data::owner()'],['../structspi__dev__dynamic__data.html#aa7611a48b6164e88627fa41f9ab41334',1,'spi_dev_dynamic_data::owner()'],['../structuart__bus__dynamic__data.html#a61d06fbb292f851e56bf890275371ecd',1,'uart_bus_dynamic_data::owner()']]]
+];

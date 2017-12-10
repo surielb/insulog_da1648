@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['watchdog_5fctrl_5freg',['WATCHDOG_CTRL_REG',['../struct_w_d_o_g___type.html#a00989d55c7f35ab5c572c4ba0ebb669a',1,'WDOG_Type']]],
+  ['watchdog_5freg',['WATCHDOG_REG',['../struct_w_d_o_g___type.html#a30d6d6e899b173b773c8e721f638d741',1,'WDOG_Type']]],
+  ['wbuf',['wbuf',['../structspi__transfer__data.html#ab3ad9a575374644c56f725e89a5a1fa5',1,'spi_transfer_data']]],
+  ['weight',['weight',['../structbcs__body__measurement__t.html#a53c61ce6cbf3d60348d5a073c723ee62',1,'bcs_body_measurement_t::weight()'],['../structwss__weight__measurement__t.html#a7fb6cacc7d8ae80a26215c706208e49c',1,'wss_weight_measurement_t::weight()']]],
+  ['wheel_5frevolution_5fdata_5fpresent',['wheel_revolution_data_present',['../structcscs__client__measurement__t.html#a41affaea994f13f3c05e477600853555',1,'cscs_client_measurement_t']]],
+  ['window',['window',['../structgap__scan__params__t.html#ac24718bda57d01f9409a815803211ed8',1,'gap_scan_params_t']]],
+  ['wkup_5fcompare_5freg',['WKUP_COMPARE_REG',['../struct_w_a_k_e_u_p___type.html#a7fd21505c26f93ecdd5c1bef3f0923ed',1,'WAKEUP_Type']]],
+  ['wkup_5fcounter_5freg',['WKUP_COUNTER_REG',['../struct_w_a_k_e_u_p___type.html#a6f5a797c31271d8002dc267959b5a7ea',1,'WAKEUP_Type']]],
+  ['wkup_5fctrl_5freg',['WKUP_CTRL_REG',['../struct_w_a_k_e_u_p___type.html#a0383695b05db4b62e9792637eb207562',1,'WAKEUP_Type']]],
+  ['wkup_5fpol_5fp0_5freg',['WKUP_POL_P0_REG',['../struct_w_a_k_e_u_p___type.html#a501993453feab8a956cc514d3177357f',1,'WAKEUP_Type']]],
+  ['wkup_5fpol_5fp1_5freg',['WKUP_POL_P1_REG',['../struct_w_a_k_e_u_p___type.html#ab99bff406b6b05170f85cba73c1735ff',1,'WAKEUP_Type']]],
+  ['wkup_5fpol_5fp2_5freg',['WKUP_POL_P2_REG',['../struct_w_a_k_e_u_p___type.html#ab756f3678a2b4254d60cdbee1c3470d7',1,'WAKEUP_Type']]],
+  ['wkup_5fpol_5fp3_5freg',['WKUP_POL_P3_REG',['../struct_w_a_k_e_u_p___type.html#adf11e7fabbc0b3e753e5719ca315b7b4',1,'WAKEUP_Type']]],
+  ['wkup_5fpol_5fp4_5freg',['WKUP_POL_P4_REG',['../struct_w_a_k_e_u_p___type.html#a9c6d1cd441e390b24ef1b3ac58481869',1,'WAKEUP_Type']]],
+  ['wkup_5freset_5fcntr_5freg',['WKUP_RESET_CNTR_REG',['../struct_w_a_k_e_u_p___type.html#a49cb0d97452e9b93868a49da020af17b',1,'WAKEUP_Type']]],
+  ['wkup_5freset_5firq_5freg',['WKUP_RESET_IRQ_REG',['../struct_w_a_k_e_u_p___type.html#ac938854baeb52752c9a818ada7352506',1,'WAKEUP_Type']]],
+  ['wkup_5fselect_5fp0_5freg',['WKUP_SELECT_P0_REG',['../struct_w_a_k_e_u_p___type.html#a329a2e3e0d56b3f299843c75d981e9c7',1,'WAKEUP_Type']]],
+  ['wkup_5fselect_5fp1_5freg',['WKUP_SELECT_P1_REG',['../struct_w_a_k_e_u_p___type.html#acef1b3c3044eb1ac3e260443301465ea',1,'WAKEUP_Type']]],
+  ['wkup_5fselect_5fp2_5freg',['WKUP_SELECT_P2_REG',['../struct_w_a_k_e_u_p___type.html#ab4646cf815ea31727caaad1d58f69018',1,'WAKEUP_Type']]],
+  ['wkup_5fselect_5fp3_5freg',['WKUP_SELECT_P3_REG',['../struct_w_a_k_e_u_p___type.html#a8503773aab410cc60763b0789cfbf4bf',1,'WAKEUP_Type']]],
+  ['wkup_5fselect_5fp4_5freg',['WKUP_SELECT_P4_REG',['../struct_w_a_k_e_u_p___type.html#a7efbc782810d852c3a4e4033aed344bf',1,'WAKEUP_Type']]],
+  ['write_5fcb',['write_cb',['../structuart__bus__dynamic__data.html#ac8096ca9669f4238b7fd6fa878150195',1,'uart_bus_dynamic_data']]],
+  ['write_5fcb_5fdata',['write_cb_data',['../structuart__bus__dynamic__data.html#a07ad1ad42215880bb25370d356c3e432',1,'uart_bus_dynamic_data']]],
+  ['write_5fcompleted_5fevt',['write_completed_evt',['../structble__client.html#aff76db479c95b32da1446090c68dbd6d',1,'ble_client']]],
+  ['write_5freq',['write_req',['../structble__service.html#a822767e02fada39111fe077b1a50cae0',1,'ble_service']]]
+];

@@ -1,0 +1,27 @@
+18:05:23 **** Incremental Build of configuration DA14681-01-Debug_QSPI for project insulog ****
+make --silent pre-build main-build 
+Generate linker scripts.
+ 
+Building file: ../ble_peripheral_task.c
+Invoking: Cross ARM C Compiler
+Finished building: ../ble_peripheral_task.c
+ 
+Building file: ../main.c
+Invoking: Cross ARM C Compiler
+Finished building: ../main.c
+ 
+Building target: insulog.elf
+Invoking: Cross ARM C Linker
+Finished building target: insulog.elf
+ 
+Invoking: Cross ARM GNU Create Flash Image
+Finished building: insulog.bin
+ 
+Invoking: Cross ARM GNU Print Size
+   text	   data	    bss	    dec	    hex	filename
+  97708	    100	  28960	 126768	  1ef30	insulog.elf
+Finished building: insulog.siz
+ 
+
+18:05:29 Build Finished (took 5s.517ms)
+
